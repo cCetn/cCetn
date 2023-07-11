@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning javascript and after i will learn react
+- 🌱 I’m currently learning javascript and after then i will learn react
 <!--
 **cCetn/cCetn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
